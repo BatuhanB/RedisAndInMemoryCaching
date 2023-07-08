@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "91wk/8NR8fjUHV1Dr5lYNBRfMB0y9vrGDsWpzRyqw+o=",
+  "Source": "RedisCaching.InMemory",
+  "BasePath": "_content/RedisCaching.InMemory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
