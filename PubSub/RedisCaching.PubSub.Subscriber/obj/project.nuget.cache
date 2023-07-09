@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wff1PBwZV0WJKjGLtU320Hrxij9Pgacu+5m+1Gq9oTVL7yPU6soy6hb1yiQ5zl29LVV7dAS4JZSornd4MNEDlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\balib\\source\\repos\\RedisCaching\\PubSub\\RedisCaching.PubSub.Subscriber\\RedisCaching.PubSub.Subscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\balib\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\balib\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\balib\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
